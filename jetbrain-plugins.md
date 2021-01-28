@@ -2,12 +2,12 @@
 
 ## Base
 
-I use these plugins for all of IDEs.
+I use these plugins for all of my IDEs.
 
 - [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) (support for `.gitignore` files)
-- [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) + [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons) (greate Theme and IconPack. I choose `Material Darker` for theme. Also enable  `Contrast Mode` and `High Contrast` )
+- [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) + [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons) (great theme and iconpack. I choose `Material Darker` for the theme. Also enable  `Contrast Mode` and `High Contrast` )
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) (pretty progress bar)
-- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) (helps with changing string in easy way)
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) (helps with changing the string in an easy way)
 - [WakaTime](https://plugins.jetbrains.com/plugin/7425-wakatime) (track programming activity)
 - [IDE Eval Reset](https://zhile.io/2020/11/18/jetbrains-eval-reset.html)
 
