@@ -1,4 +1,4 @@
-# JetBrain Plugins
+# JetBrains Plugins
 
 ## Base
 
