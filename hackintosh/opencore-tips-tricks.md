@@ -1,5 +1,7 @@
 # OpenCore Tips and Tricks
 
+![](../_images/hackintosh/opencore-boot.png)
+
 - [OpenCore Tips and Tricks](#opencore-tips-and-tricks)
   - [Change boot entry image](#change-boot-entry-image)
     - [Convert .png to .icns](#convert-png-to-icns)
