@@ -1,5 +1,12 @@
 # OpenCore Tips and Tricks
 
+- [OpenCore Tips and Tricks](#opencore-tips-and-tricks)
+  - [Change boot entry image](#change-boot-entry-image)
+    - [Convert .png to .icns](#convert-png-to-icns)
+    - [Change icon](#change-icon)
+  - [Rename boot entry](#rename-boot-entry)
+  - [Screenshot OpenCore boot menu](#screenshot-opencore-boot-menu)
+
 ## Change boot entry image
 
 You need `.icns` files. If you don't have it, first do the convert part and then proceed.
