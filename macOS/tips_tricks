@@ -1,0 +1,4 @@
+# Tips and Tricks
+
+## Fix "App is damaged and can’t be opened. You should move it to the Trash"
+`sudo xattr -rd /Applications/[name].app`
